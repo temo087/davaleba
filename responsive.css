@@ -10,7 +10,6 @@ flex-shrink: 0;
     h1{
         color: var(--2D2D2D, #2D2D2D);
 text-align: right;
-font-family: Inter;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
@@ -30,7 +29,6 @@ height: 64px;
 flex-shrink: 0;
 margin-top: 50px;
 color: var(--2D2D2D, #2D2D2D);
-font-family: Inter;
 font-size: 20px;
 font-style: normal;
 font-weight: 700;
@@ -44,7 +42,6 @@ line-height: normal;
         font-size: 64px;
     }
     .phonetic{
-        font-family: Inter;
     font-size: 24px;
     margin-top: 8px;
 
@@ -84,7 +81,6 @@ height: 1px;
         font-feature-settings: 'clig' off, 'liga' off;
         
         /* Body M - Serif */
-        font-family: Lora;
         font-size: 18px;
         font-style: normal;
         font-weight: 400;
@@ -98,7 +94,6 @@ height: 1px;
     color: var(--757575, #757575);
     font-feature-settings: 'clig' off, 'liga' off;
     /* Heading S - Sans */
-    font-family: Inter;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -118,7 +113,6 @@ footer h2{
 font-feature-settings: 'clig' off, 'liga' off;
 
 /* Body S - Sans */
-font-family: Inter;
 font-size: 14px;
 font-style: normal;
 font-weight: 400;
@@ -129,7 +123,6 @@ text-decoration-line: underline;
     color: var(--2D2D2D, #2D2D2D);
 font-feature-settings: 'clig' off, 'liga' off;
 /* Body S - Sans */
-font-family: Inter;
 font-size: 14px;
 font-style: normal;
 font-weight: 400;
@@ -181,7 +174,6 @@ height: 1205px;
     }
     h1{
         text-align: right;
-        font-family: Lora;
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
@@ -210,14 +202,12 @@ background-position: 20px;    }
         font-feature-settings: 'clig' off, 'liga' off;
         
         /* Heading L - Serif */
-        font-family: Lora;
         font-size: 64px;
         font-style: normal;
         font-weight: 700;
         line-height: normal;
     }
     .phonetic{
-        font-family: Inter;
         font-size: 24px;
     margin-top: 8px;
 
@@ -237,7 +227,6 @@ flex-shrink: 0;
     }
     .noun, .verb{
         color: var(--2D2D2D, #2D2D2D);
-        font-family: Inter;
         font-size: 24px;
         font-style: italic;
         font-weight: 700;
@@ -255,7 +244,6 @@ color: var(--2D2D2D, #2D2D2D);
 font-feature-settings: 'clig' off, 'liga' off;
 
 /* Body M - Sans */
-font-family: Inter;
 font-size: 18px;
 font-style: normal;
 font-weight: 400;
@@ -269,7 +257,6 @@ line-height: 24px; /* 133.333% */
     color: var(--757575, #757575);
     font-feature-settings: 'clig' off, 'liga' off;
     /* Heading S - Sans */
-    font-family: Inter;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -287,7 +274,6 @@ footer h2{
 font-feature-settings: 'clig' off, 'liga' off;
 
 /* Body S - Sans */
-font-family: Inter;
 font-size: 14px;
 font-style: normal;
 font-weight: 400;
@@ -298,7 +284,6 @@ text-decoration-line: underline;
     color: var(--2D2D2D, #2D2D2D);
 font-feature-settings: 'clig' off, 'liga' off;
 /* Body S - Sans */
-font-family: Inter;
 font-size: 14px;
 font-style: normal;
 font-weight: 400;

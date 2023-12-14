@@ -88,12 +88,7 @@ baro.addEventListener('click', () => {
         chartuli = false;
     }
 })
-if(document.body.backgroundColor === "#050505"){
-    document.box.style.backgroundColor = "#050505"
-}
-else{
-    document.box.style.backgroundColor = "white"
-}
+
 sans.addEventListener('click', () => {
 
     document.body.style.fontFamily = "Inter"
